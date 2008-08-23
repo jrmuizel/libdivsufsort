@@ -257,7 +257,7 @@ All programs were compiled with gcc/g++ using '-O3 -fomit-frame-pointer -DNDEBUG
 
  
 ----
-== Space (in MiBytes) ==
+== Space (in MiB) ==
  
 
  
