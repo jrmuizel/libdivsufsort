@@ -1,4 +1,5 @@
 #summary The benchmark results of implementations of various, latest suffix array construction algorithms.
+#labels Featured
 
 == Specifications ==
   * Processor:        2.66 GHz Intel Core 2 Duo E6750
